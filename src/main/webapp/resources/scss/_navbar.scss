@@ -6,7 +6,6 @@
   @include transition-all;
   .navbar-brand {
     font-weight: 700;
-    text-transform: uppercase;
     color: $primary;
     @include sans-serif-font;
     &:focus,
